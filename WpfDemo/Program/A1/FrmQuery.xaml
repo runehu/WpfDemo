@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfDemo.Program.A1.FrmQuery"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FrmQuery" Height="300" Width="300"
+        WindowStyle="None" AllowsTransparency="True" Background="{x:Null}"
+        WindowStartupLocation="CenterScreen">
+    <Grid Width="{Binding Width,ElementName=w}" Height="{Binding Height,ElementName=w}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Border Grid.RowSpan="4" BorderBrush="Gray" BorderThickness="3" CornerRadius="20" Margin="10" Opacity="1" Background="White"></Border>
+        <Button Style="{StaticResource BtnCloseStyle}" Name="btnClose" Grid.Row="0" Click="Button_Click"></Button>
+    
+    </Grid>
+</Window>
+ 

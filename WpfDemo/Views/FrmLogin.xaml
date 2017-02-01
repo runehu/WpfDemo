@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="WpfDemo.Views.FrmLogin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"   
+         Height="800" Width="1000">
+    <Grid>
+        <Menu Height="23" Name="menu" VerticalAlignment="Top">
+            <MenuItem Header="檔案">
+                <MenuItem Header="打開" Name="MENU_A1" Click="MENU_Click" CommandParameter="A1/FrmOpen.xaml"/>
+                <!--<MenuItem Header="保存" Name="MENU_A12" Click="MENU_Click" CommandParameter="A2/FrmOpen.xaml"/>-->
+            </MenuItem>
+            <MenuItem Header="設置" Name="MENU_A2" Click="MENU_Click" CommandParameter="A1/FrmSetting.xaml" />
+        </Menu>
+        <TabControl Margin="0,20,34,22" Name="TabCtrl_MainPage"></TabControl>
+    </Grid>
+</UserControl>

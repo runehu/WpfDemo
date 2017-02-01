@@ -1,0 +1,9 @@
+C:\Users\L1600124\Desktop\asp.net\WpfDemo\WpfDemo.Common\bin\Debug\WpfDemo.Common.dll
+C:\Users\L1600124\Desktop\asp.net\WpfDemo\WpfDemo.Common\bin\Debug\WpfDemo.Common.pdb
+C:\Users\L1600124\Desktop\asp.net\WpfDemo\WpfDemo.Common\obj\Debug\WpfDemo.Common.dll
+C:\Users\L1600124\Desktop\asp.net\WpfDemo\WpfDemo.Common\obj\Debug\WpfDemo.Common.pdb
+D:\360Downloads\WpfDemo\WpfDemo\WpfDemo.Common\bin\Debug\WpfDemo.Common.dll
+D:\360Downloads\WpfDemo\WpfDemo\WpfDemo.Common\bin\Debug\WpfDemo.Common.pdb
+D:\360Downloads\WpfDemo\WpfDemo\WpfDemo.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\360Downloads\WpfDemo\WpfDemo\WpfDemo.Common\obj\Debug\WpfDemo.Common.dll
+D:\360Downloads\WpfDemo\WpfDemo\WpfDemo.Common\obj\Debug\WpfDemo.Common.pdb
